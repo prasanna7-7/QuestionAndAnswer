@@ -1,0 +1,65 @@
+1.What is oops stands for? 
+OOPS is a Object Oriented Language
+ 
+2.What is Polymorphism? explain types?
+Polymerphism it's an use mulitiple form of implementation. the overloading is a same class same method with different arguments,
+overrinding is a different class with same method name
+types of polumorphism 
+a.)overloading 
+b.)overrinding 
+
+3.what is interface and example in selenium,java?
+Interface is a design and its unimplement method and it's a blueprint of a class
+It's has static constants and abstract method 
+It is used to achive aabstraction 
+a.) example of selenium (chrome driver-extends-remotewebdriver)
+b.) example of java (samsung-extends-samsungphone)(samsungphone-extends-iphone)
+
+4.what is abstarct class and example?
+A Class which is declared with the abstract keyword is know as an abstract class
+it is partially implemented and unimplemented method.
+its a restricted class that cannot used to create objects, its must inherited from another
+example:
+selenim:driver.findelement(by)
+
+5.Difference between multiple inheritance and multilevel inheritance
+Multiple inheritance 
+i. multiple inheritance is inherits form more than one base class
+ii. its is not widely used bacause its make the system more complex
+iii. it has two class namely base and derived class ex, parent- child1-child2..
+
+Multilevel Inheritence
+i. Multilevel inheritance inherits from derived base class for new class.
+ii. it is widely used 
+iii. it has three level class namely , base class, intermediate,derived class.
+ex, grandparent - parent-child.
+
+6.Is multiple inheritance possible in java?
+no, multiple inheritance not possible in java 
+
+7.What is keyword for using inheritance 
+"Extends" keywords is using for inheritance 
+ 
+8.what is the keyword to connect interface and class
+"implements" is the keyword used for connect interface and class.
+
+9.what is difference between class and interface
+class
+i. class is a group of object which have common properties.
+ii. class is a implemented method.
+iii. class can be possible to create object.
+
+Interface is a design
+i. interface is a unimplemented method 
+ii. it cannot be create object.
+
+10.what is difference between class and abstract class
+Class
+i. class is a group of object which have common properties.
+ii. class is a implemented method
+iii. class can be possible to create object
+
+abstract
+i. a class with declared abstract keyword known as abstract class
+ii. abstract class is partially implemented and unimplemented method
+iii. its a restricted class that cabbot used to create objects, it must inherited from another.
